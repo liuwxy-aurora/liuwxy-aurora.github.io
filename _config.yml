@@ -59,7 +59,7 @@ author:
   links:
     - label: "CV"
       icon: "fas fa-fw fa-file-pdf"
-      url: "/assets/files/CV-202604.pdf"
+      url: "/assets/CV-202604.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:liuwxy@ucla.edu"
