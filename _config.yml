@@ -63,6 +63,9 @@ author:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:liuwxy@ucla.edu"
+    - label: LinkedIn
+      icon: fab fa-linkedin
+      url: https://www.linkedin.com/in/wanxiangyi-liu-8146a33bb
 
 footer:
   links:
