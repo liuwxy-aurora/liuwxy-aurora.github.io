@@ -54,7 +54,7 @@ plugins:
 
 author:
   name   : "Aurora"
-  avatar : "/assets/images/bio-photo.jpg"
+  avatar : "/assets/images/profile.jpg"
   bio    : Starting to build up my own website (from music and photography probably)
   links:
     - label: "Website"
