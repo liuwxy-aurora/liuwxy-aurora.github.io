@@ -57,6 +57,9 @@ author:
   avatar : "/assets/images/profile.jpg"
   bio    : Incoming PhD student at UCLA Anderson
   links:
+    - label: "CV"
+      icon: "fas fa-fw fa-file-pdf"
+      url: "/assets/files/cv.pdf"
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
       url: "mailto:liuwxy@ucla.edu"
