@@ -55,26 +55,20 @@ plugins:
 author:
   name   : "Aurora"
   avatar : "/assets/images/profile.jpg"
-  bio    : Starting to build up my own website (from music and photography probably)
+  bio    : Incoming PhD student at UCLA Anderson
   links:
-    - label: "Website"
-      icon: "fas fa-fw fa-link"
-      url: "https://"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
-    - label: "Instagram"
-      icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:liuwxy@ucla.edu"
 
 footer:
   links:
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/"
+      url: "https://github.com/liuwxy-aurora"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
-      url: "https://instagram.com/"
+      url: "https://instagram.com/liuwxyaurora"
 
 defaults:
   # _posts
